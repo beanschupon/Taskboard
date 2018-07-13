@@ -1,4 +1,4 @@
-v0.3.1
+v0.3.2.1
 
 Changelog
 
@@ -7,3 +7,5 @@ Changelog
  * Fix boards button bug.
  * Fix modal display bug.
  * Allow email to be reset to nothing.
+ * Changed version number from v0.3.1 to v0.3.2
+ * Updated version from v0.3.2 to v0.3.2.1
